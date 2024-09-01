@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+input,h1{
+    font-weight: 800;
+    margin-left: 45%;
+    outline: none;
+    align-items: center;
+}
+#listDiv{
+    margin-left: 50%;
+    margin-top: 10px;
+    
+}
+p{
+    width: 25px;
+    margin-right: 35px;
+}
+#Btn-Add{
+    padding: 3px 5px;
+    border-radius: 5px;
+    background-color: lightblue;
+}
